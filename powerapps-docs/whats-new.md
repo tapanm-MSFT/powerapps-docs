@@ -33,6 +33,9 @@ To know more about how to browse information in the weekly release notes, read t
 ## Release plan
 
 For information about new features releasing over the next few months that you can use for planning, see:
+
+Here are the upcoming release plans:
+
 - [April 2019 release notes](https://docs.microsoft.com/business-applications-release-notes/April19/microsoft-powerapps/planned-features)
 - [2019 release wave 2 plan](https://docs.microsoft.com/power-platform-release-plan/2019wave2/microsoft-powerapps/planned-features)
 
